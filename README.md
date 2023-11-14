@@ -3,3 +3,4 @@
 ## [Github笔记](https://githubfast.com/rem-auto/tasks-/blob/main/GitHub.md)
 ## [hello](https://githubfast.com/rem-auto/tasks-/blob/main/hello.md)
 ## [git-idea](https://githubfast.com/rem-auto/tasks-/tree/main/git%20idea)
+## [github upgrade](https://githubfast.com/rem-auto/tasks-/blob/main/github%20upgrade.md)
